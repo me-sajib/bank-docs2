@@ -9,7 +9,7 @@ export function Footer() {
 					<div>
 						<div className="flex items-center mb-4">
 							<Building2 className="h-8 w-8" />
-							<span className="ml-2 text-xl font-bold">BMH Zorg</span>
+							<span className="ml-2 text-xl font-bold">JeugdSteun</span>
 						</div>
 						<p className="text-gray-400">
 							Professionele ondersteuning voor jongeren op weg naar een betere toekomst.
@@ -38,7 +38,7 @@ export function Footer() {
 					</div>
 				</div>
 				<div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-					<p>&copy; 2024 BMH Zorg. Alle rechten voorbehouden.</p>
+					<p>&copy; 2025 JeugdSteun. Alle rechten voorbehouden.</p>
 				</div>
 			</div>
 		</footer>

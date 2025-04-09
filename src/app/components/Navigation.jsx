@@ -8,7 +8,7 @@ export function Navigation() {
 				<div className="flex items-center justify-between h-16">
 					<div className="flex items-center">
 						<Building2 className="h-8 w-8" />
-						<span className="ml-2 text-xl font-bold">BMH Zorg</span>
+						<span className="ml-2 text-xl font-bold">JeugdSteun</span>
 					</div>
 					<div className="hidden md:block">
 						<div className="flex items-center space-x-4">
