@@ -28,7 +28,7 @@ export function Footer() {
 					<div>
 						<h3 className="text-lg font-semibold mb-4">Contact Info</h3>
 						<ul className="space-y-2 text-gray-400">
-							<li>Ernst Casimirlann 132</li>
+							<li>Ernst Casimirlaan 132</li>
 							<li>6824SE Arnhem</li>
 							<li>Nederland</li>
 							<li>info@bmhzorg.nl</li>

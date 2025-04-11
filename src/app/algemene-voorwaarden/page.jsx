@@ -15,19 +15,19 @@ export default function page() {
 						Welkom bij Hart En Ziel Coaching. Door gebruik te maken van onze coachingdiensten, gaat u akkoord met de onderstaande algemene voorwaarden. Deze voorwaarden zijn van toepassing op alle coachingservices die worden aangeboden door Hart En Ziel Coaching, gevestigd in Nederland.
 					</p>
 
-					<h3 className="text-xl font-semibold mb-3">1. Identiteit van de Dienstverlener</h3>
+					<h3 className="text-xl font-semibold mb-3">1.  Identiteit van de Dienstverlener</h3>
 					<p className="mb-6">
-						Hart En Ziel Coaching is een coachingpraktijk die zich richt op het begeleiden van mensen naar een gezondere en positievere levensstijl. Wij bieden persoonlijke coaching aan via telefonische sessies. De coaching wordt geleverd door Sinem Betul Emral, oprichter en eigenaar van Hart En Ziel Coaching.
+						Hart En Ziel Coaching is een praktijk die zich richt op het begeleiden van mensen naar een gezondere, positievere en doelgerichte levensstijl. Wij bieden persoonlijke ondersteuning via telefonische sessies, videogesprekken en 1-op-1 ontmoetingen. De begeleiding wordt verzorgd door Sinem Betul Emral, oprichter en eigenaar van Hart En Ziel Coaching.
 					</p>
 
 					<h3 className="text-xl font-semibold mb-3">2. Diensten</h3>
 					<p className="mb-6">
-						Hart En Ziel Coaching biedt telefonische coaching op het gebied van gezondheid, mindset, en persoonlijke ontwikkeling. Wij bieden geen fysieke behandelingen of therapieën aan. De coaching wordt telefonisch gegeven en richt zich op het verbeteren van de mentale en fysieke welzijn van de klant.
+						Hart En Ziel Coaching biedt ondersteuning op het gebied van gezondheid, mindset, persoonlijke ontwikkeling én loopbaanbegeleiding. Wij helpen bij het opstellen van documenten zoals cv’s en sollicitatiebrieven, en bieden begeleiding bij het vinden van werk. De sessies worden gehouden via telefoon, videocall of persoonlijke 1-op-1 afspraken.
 					</p>
 
-					<h3 className="text-xl font-semibold mb-3">3. Coaching Sessie</h3>
+					<h3 className="text-xl font-semibold mb-3">3. Sessie-informatie					</h3>
 					<p className="mb-6">
-						Elke coaching sessie wordt telefonisch gehouden. De duur van een coaching sessie is variabel, maar meestal tussen de 30 en 60 minuten. De kosten worden per minuut berekend, en de prijs wordt vooraf afgesproken. Na afloop van de sessie ontvangt de klant een factuur en een betaalverzoek via het bank systeem, en dient de klant binnen de aangegeven termijn te betalen.
+						Elke sessie wordt gehouden via telefoon, videogesprek of in een persoonlijke 1-op-1 setting. De duur van een sessie is variabel, maar meestal tussen de 30 en 60 minuten. De kosten worden per minuut of per sessie berekend, afhankelijk van het afgesproken tarief. Na afloop ontvangt de klant een factuur en betaalverzoek, welke binnen de gestelde termijn moet worden voldaan.
 					</p>
 
 					<h3 className="text-xl font-semibold mb-3">4. Betaling</h3>
@@ -73,7 +73,7 @@ export default function page() {
 					<h3 className="text-xl font-semibold mb-3">12. Contactinformatie</h3>
 					<div className="mb-6">
 						<ul className="space-y-2 text-black">
-							<li>Ernst Casimirlann 132</li>
+							<li>Ernst Casimirlaan 132</li>
 							<li>6824SE Arnhem</li>
 							<li>Nederland</li>
 							<li>info@bmhzorg.nl</li>

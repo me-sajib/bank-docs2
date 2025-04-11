@@ -18,7 +18,7 @@ export function Contact() {
 						<div className="space-y-4">
 							<div className="flex items-center">
 								<MapPin className="h-6 w-6 text-blue-600" />
-								<span className="ml-3 text-black">Ernst Casimirlann 132, 6824SE Arnhem</span>
+								<span className="ml-3 text-black">Ernst Casimirlaan 132, 6824SE Arnhem</span>
 							</div>
 							<div className="flex items-center">
 								<Mail className="h-6 w-6 text-blue-600" />
