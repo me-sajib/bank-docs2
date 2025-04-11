@@ -12,17 +12,17 @@ export default function page() {
 				<div className="prose prose-lg">
 					<h2 className="text-2xl font-semibold mb-4">Inleiding</h2>
 					<p className="mb-6">
-						Welkom bij Hart En Ziel Coaching. Door gebruik te maken van onze coachingdiensten, gaat u akkoord met de onderstaande algemene voorwaarden. Deze voorwaarden zijn van toepassing op alle coachingservices die worden aangeboden door Hart En Ziel Coaching, gevestigd in Nederland.
+						Welkom bij Jeugdsteun. Door gebruik te maken van onze coachingdiensten, gaat u akkoord met de onderstaande algemene voorwaarden. Deze voorwaarden zijn van toepassing op alle coachingservices die worden aangeboden door Jeugdsteun, gevestigd in Nederland.
 					</p>
 
 					<h3 className="text-xl font-semibold mb-3">1.  Identiteit van de Dienstverlener</h3>
 					<p className="mb-6">
-						Hart En Ziel Coaching is een praktijk die zich richt op het begeleiden van mensen naar een gezondere, positievere en doelgerichte levensstijl. Wij bieden persoonlijke ondersteuning via telefonische sessies, videogesprekken en 1-op-1 ontmoetingen. De begeleiding wordt verzorgd door Sinem Betul Emral, oprichter en eigenaar van Hart En Ziel Coaching.
+						Jeugdsteun is een praktijk die zich richt op het begeleiden van mensen naar een gezondere, positievere en doelgerichte levensstijl. Wij bieden persoonlijke ondersteuning via telefonische sessies, videogesprekken en 1-op-1 ontmoetingen. De begeleiding wordt verzorgd door Sinem Betul Emral, oprichter en eigenaar van Jeugdsteun.
 					</p>
 
 					<h3 className="text-xl font-semibold mb-3">2. Diensten</h3>
 					<p className="mb-6">
-						Hart En Ziel Coaching biedt ondersteuning op het gebied van gezondheid, mindset, persoonlijke ontwikkeling én loopbaanbegeleiding. Wij helpen bij het opstellen van documenten zoals cv’s en sollicitatiebrieven, en bieden begeleiding bij het vinden van werk. De sessies worden gehouden via telefoon, videocall of persoonlijke 1-op-1 afspraken.
+						Jeugdsteun biedt ondersteuning op het gebied van gezondheid, mindset, persoonlijke ontwikkeling én loopbaanbegeleiding. Wij helpen bij het opstellen van documenten zoals cv’s en sollicitatiebrieven, en bieden begeleiding bij het vinden van werk. De sessies worden gehouden via telefoon, videocall of persoonlijke 1-op-1 afspraken.
 					</p>
 
 					<h3 className="text-xl font-semibold mb-3">3. Sessie-informatie					</h3>
@@ -42,22 +42,22 @@ export default function page() {
 
 					<h3 className="text-xl font-semibold mb-3">6. Vertrouwelijkheid</h3>
 					<p className="mb-6">
-						Hart En Ziel Coaching behandelt alle klantinformatie vertrouwelijk. Tijdens de coaching sessies kunnen persoonlijke gegevens en vertrouwelijke informatie gedeeld worden. Deze informatie zal niet zonder toestemming van de klant worden gedeeld met derden, tenzij wettelijk verplicht.
+						Jeugdsteun behandelt alle klantinformatie vertrouwelijk. Tijdens de coaching sessies kunnen persoonlijke gegevens en vertrouwelijke informatie gedeeld worden. Deze informatie zal niet zonder toestemming van de klant worden gedeeld met derden, tenzij wettelijk verplicht.
 					</p>
 
 					<h3 className="text-xl font-semibold mb-3">7. Aansprakelijkheid</h3>
 					<p className="mb-6">
-						Hart En Ziel Coaching is niet aansprakelijk voor schade, verlies of letsel die voortkomt uit de coaching sessies, tenzij sprake is van opzet of grove nalatigheid. De klant is zelf verantwoordelijk voor het implementeren van de geboden adviezen en voor het nemen van beslissingen op basis van de coaching.
+						Jeugdsteun is niet aansprakelijk voor schade, verlies of letsel die voortkomt uit de coaching sessies, tenzij sprake is van opzet of grove nalatigheid. De klant is zelf verantwoordelijk voor het implementeren van de geboden adviezen en voor het nemen van beslissingen op basis van de coaching.
 					</p>
 
 					<h3 className="text-xl font-semibold mb-3">8. Intellectuele Eigendom</h3>
 					<p className="mb-6">
-						Alle materialen, documenten, en inhoud verstrekt door Hart En Ziel Coaching zijn beschermd door auteursrechten en mogen niet zonder schriftelijke toestemming worden gedeeld, verspreid of gekopieerd.
+						Alle materialen, documenten, en inhoud verstrekt door Jeugdsteun zijn beschermd door auteursrechten en mogen niet zonder schriftelijke toestemming worden gedeeld, verspreid of gekopieerd.
 					</p>
 
 					<h3 className="text-xl font-semibold mb-3">9. Wijzigingen in de Algemene Voorwaarden</h3>
 					<p className="mb-6">
-						Hart En Ziel Coaching behoudt zich het recht voor om deze algemene voorwaarden op elk moment te wijzigen. Wijzigingen worden tijdig via de website van Hart En Ziel Coaching en per e-mail aan klanten bekendgemaakt.
+						Jeugdsteun behoudt zich het recht voor om deze algemene voorwaarden op elk moment te wijzigen. Wijzigingen worden tijdig via de website van Jeugdsteun en per e-mail aan klanten bekendgemaakt.
 					</p>
 
 					<h3 className="text-xl font-semibold mb-3">10. Toepasselijk Recht</h3>
@@ -84,7 +84,7 @@ export default function page() {
 
 					<p className="mt-8">
 						Door gebruik te maken van onze diensten gaat u akkoord met de bovenstaande algemene voorwaarden.
-						Wij danken u voor uw vertrouwen in Hart En Ziel Coaching en kijken ernaar uit om samen met u aan uw persoonlijke groei te werken!
+						Wij danken u voor uw vertrouwen in Jeugdsteun en kijken ernaar uit om samen met u aan uw persoonlijke groei te werken!
 					</p>
 				</div>
 			</div>
