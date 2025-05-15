@@ -41,10 +41,10 @@ export function Navigation() {
 				{isMenuOpen && (
 					<div className="md:hidden py-4">
 						<div className="flex flex-col space-y-4">
-							<Link to="/" className="text-gray-600 hover:text-blue-600 transition-colors font-medium">Home</Link>
+							<Link href="/" className="text-gray-600 hover:text-blue-600 transition-colors font-medium">Home</Link>
 							<a href="#about" className="text-gray-600 hover:text-blue-600 transition-colors font-medium">Over Ons</a>
 							<a href="#services" className="text-gray-600 hover:text-blue-600 transition-colors font-medium">Diensten</a>
-							<Link to="/blog" className="text-gray-600 hover:text-blue-600 transition-colors font-medium">Blog</Link>
+							<Link href="/blog" className="text-gray-600 hover:text-blue-600 transition-colors font-medium">Blog</Link>
 							<a href="#contact" className="bg-blue-600 text-white px-6 py-3 rounded-full hover:text-blue-700 transition-colors font-medium text-center">Contact</a>
 						</div>
 					</div>

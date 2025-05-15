@@ -17,7 +17,7 @@ export default function page() {
 
 					<h3 className="text-xl font-semibold mb-3">1.  Identiteit van de Dienstverlener</h3>
 					<p className="mb-6">
-						Jeugdsteun is een praktijk die zich richt op het begeleiden van mensen naar een gezondere, positievere en doelgerichte levensstijl. Wij bieden persoonlijke ondersteuning via telefonische sessies, videogesprekken en 1-op-1 ontmoetingen. De begeleiding wordt verzorgd door Sinem Betul Emral, oprichter en eigenaar van Jeugdsteun.
+						Jeugdsteun is een praktijk die zich richt op het begeleiden van mensen naar een gezondere, positievere en doelgerichte levensstijl. Wij bieden persoonlijke ondersteuning via telefonische sessies.
 					</p>
 
 					<h3 className="text-xl font-semibold mb-3">2. Diensten</h3>
